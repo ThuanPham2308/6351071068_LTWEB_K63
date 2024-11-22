@@ -1,0 +1,13 @@
+﻿@model IEnumerable<WebBanXeGanMay.Models.LOAIXE>
+@foreach (var item in Model)
+{
+    <li>
+        <a href="@Url.Action("SPTheoLX","Home",new {id = item.MaLX})">@item.TenLoaiXe</a>
+    </li>
+}
+
+
+
+
+
+

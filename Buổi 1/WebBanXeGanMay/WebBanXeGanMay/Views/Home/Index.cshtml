@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section>
+    <div class="wraper">
+        <div class="slide">
+            <div class="slide_1 ra">
+                <img src="~/images/FB.jpg" alt="" width="1100" height="200 ">
+            </div>
+            <div class="slide_2">
+                <img src="https://suzuki.com.vn/_next/image?url=https%3A%2F%2Fdoftr40680fkg.cloudfront.net%2Fall-page%2Ffeature-images%2Fdesk-placeholder%2FSection9_PC_1692610970031.webp&w=1920&q=75" alt="" width="1100" height="200 ">
+            </div>
+            <div class="slide_3">
+                <img src="https://suzuki.com.vn/_next/image?url=https%3A%2F%2Fdoftr40680fkg.cloudfront.net%2Fcontents%2Fhomepage%2Fbanner%2Fdesktop%2FHomePage_Banner2_964x535_PC_1696306993696_1715592339309.webp&w=1080&q=75" alt="" width="1100" height="200 ">
+            </div>
+        </div>
+    </div>
+    <br><br>
+        <div id="danhsachxe">
+            @foreach (var item in (IEnumerable<WebBanXeGanMay.Models.XEGANMAY>)ViewData["xeganmays"])
+            {
+                <div>
+                    <a href="Exciter.html">
+                        <img width="100" height="100" src="@Url.Content($"~/{item.Anhbia}")" alt="Motocycle Image" />
+                    </a>
+                    <p class="tenxe"><a href="@Url.Action("Details","Home", new {id = item.MaXe})">@Html.DisplayFor(modelItem => item.TenXe)</a></p>
+                </div>
+            }
+        </div>
+</section>
+<aside id="right">
+    <div>
+        <p>SẢN PHẨM MỚI</p>
+        <marquee onMouseOut="start()" onMouseOver="stop()" scrollamount="4" scrolldelay="100" direction="up">
+            @foreach (var item in (IEnumerable<WebBanXeGanMay.Models.XEGANMAY>)ViewData["xemoinhats"])
+            {
+                <div>
+                    <a href="@Url.Action("Details","Home", new {id = item.MaXe})">
+                        <img width="100" height="100" src="@Url.Content($"~/{item.Anhbia}")" alt="Motocycle Image" />
+                    </a>
+                    <p class="tenxe"><a href="#">@Html.DisplayFor(modelItem => item.TenXe)</a></p>
+                    <p class="maugia">@Html.DisplayFor(modelItem => item.Giaban) VND</p>
+                </div>
+            }
+        </marquee>
+    </div>
+</aside>
