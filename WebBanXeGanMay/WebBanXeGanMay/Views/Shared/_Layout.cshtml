@@ -1,0 +1,71 @@
+﻿
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Thế giới xe</title>
+    <link href="~/Content/cssweb.css" rel="stylesheet" />
+    <link href="~/Content/trangchu.css" rel="stylesheet" />
+    <link href="~/Content/dk.css" rel="stylesheet" />
+    <script src="~/Scripts/chitiet.js"></script>
+</head>
+
+<body>
+    <header>
+        <img src="~/images/logo.png">
+    </header>
+    <div class="trai">
+    </div>
+    <nav>
+        <div id="menu">
+            <ul>
+                <li><a href="@Url.Action("Index","Home")" target="_self">TRANG CHỦ</a></li>
+                <li>
+                    <a href="#" target="_self">NHÀ PHÂN PHỐI</a>
+                    <ul>
+                        @Html.Action("NhaPhanPhoi", "Store")
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">LOẠI XE</a>
+                    <ul>
+                        @Html.Action("LoaiXe", "Store")
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" target="_self">THÀNH VIÊN</a>
+                    <ul>
+                        <li><a href="@Url.Action("DangKy","User")" target="_self">Đăng ký thành viên</a></li>
+                        <li><a href="@Url.Action("DangNhap","User")" target="_self">Đăng nhập</a></li>
+                    </ul>
+                </li>
+                <li>
+                    @Html.Action("GioHangPartial", "ShoppingCart")
+                </li>
+                @if (Session["Taikhoan"] != null)
+                {
+                    var user = (WebBanXeGanMay.Models.KHACHHANG)Session["Taikhoan"];
+                    <li style="color: white; background: radial-gradient(circle, #B22222 30%, #B22222 60%, #1e1e1e 95%)">Xin chào! @user.HoTen</li>
+                }
+                else
+                {
+                    <li style="color: green; background: radial-gradient(circle, #B22222 30%, #B22222 60%, #1e1e1e 95%)">Chưa đăng nhập</li>
+                }
+            </ul>
+        </div>
+        <div id="phai">
+        </div>
+        <div class="tim">
+            <form>
+                <input type="text" autofocus placeholder="Tìm kiếm xe, giá xe...">
+                <input type="submit" value="Tìm kiếm">
+            </form>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+    </footer>
+</body>
+</html>
