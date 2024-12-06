@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Thongke";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="rev-card rev-revenue-group-card">
+    <h3>SÓ LƯỢNG XE THEO NHÀ PHÂN PHỐI</h3>
+    <canvas id="SLXeChart" class="SLXeChart"></canvas>
+</div>
+<script>
+    const SLXe = document.getElementById('SLXeChart').getContext('2d');
+    const Yamaha = @ViewBag.ymhs;
+    const Suzuki = @ViewBag.szks;
+    const Honda = @ViewBag.hds;
+    new Chart(SLXe, {
+        type: 'bar',
+        data: {
+            labels: ['Yamaha', 'Suzuki', 'Honda'], 
+            datasets: [{
+                label: 'Số lượng xe của mỗi Nhà phân phối',
+                data: [Yamaha, Suzuki, Honda],
+                backgroundColor: '#ff9800'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false
+        }
+    });
+</script>

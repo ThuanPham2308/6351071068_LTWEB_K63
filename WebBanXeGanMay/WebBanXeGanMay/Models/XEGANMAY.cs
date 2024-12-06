@@ -29,8 +29,7 @@ namespace WebBanXeGanMay.Models
         public Nullable<int> Soluongton { get; set; }
         public Nullable<int> MaLX { get; set; }
         public Nullable<int> MaNPP { get; set; }
-
-
+    
         public virtual ICollection<CHITIETDONTHANG> CHITIETDONTHANGs { get; set; }
         public virtual LOAIXE LOAIXE { get; set; }
         public virtual NHAPHANPHOI NHAPHANPHOI { get; set; }

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI;
 using WebBanXeGanMay.Models;
 
 namespace WebBanXeGanMay.Controllers
@@ -29,19 +30,34 @@ namespace WebBanXeGanMay.Controllers
             var npp = from s in db.NHAPHANPHOIs select s;
             return PartialView(npp);
         }
-        public ActionResult SPTheoNPP(int id)
+        public ActionResult SPTheoNPP(int id, int? page)
         {
-            var products = from s in db.XEGANMAYs where s.MaNPP == id select s;
+            int pageSize = 4; 
+            int pageNum = (page ?? 1); 
+
+            var products = db.XEGANMAYs
+                             .Where(s => s.MaNPP == id)
+                             .OrderBy(s => s.MaXe) 
+                             .ToPagedList(pageNum, pageSize);
+
             return View(products);
         }
+
         public ActionResult LoaiXe()
         {
             var lx = from s in db.LOAIXEs select s;
             return PartialView(lx);
         }
-        public ActionResult SPTheoLX(int id)
+        public ActionResult SPTheoLX(int id, int ? page)
         {
-            var products = from s in db.XEGANMAYs where s.MaLX == id select s;
+            int pageSize = 4;
+            int pageNum = (page ?? 1);
+
+            var products = db.XEGANMAYs
+                             .Where(s => s.MaLX == id)
+                             .OrderBy(s => s.MaXe)
+                             .ToPagedList(pageNum, pageSize);
+
             return View(products);
         }
 

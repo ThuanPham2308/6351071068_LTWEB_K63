@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|c:\\users\\user\\documents\\web\\l\u1EADp tr\u00ECnh web\\asp.net\\mvc\\web buoi1\\6351071068_ltweb_k63\\webbanxeganmay\\webbanxeganmay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|c:\\users\\user\\documents\\web\\l\u1EADp tr\u00ECnh web\\asp.net\\mvc\\web buoi1\\6351071068_ltweb_k63\\webbanxeganmay\\webbanxeganmay\\views\\admin\\suaxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\admin\\suaxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|c:\\users\\user\\documents\\web\\l\u1EADp tr\u00ECnh web\\asp.net\\mvc\\web buoi1\\6351071068_ltweb_k63\\webbanxeganmay\\webbanxeganmay\\views\\admin\\xe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\admin\\xe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|c:\\users\\user\\documents\\web\\l\u1EADp tr\u00ECnh web\\asp.net\\mvc\\web buoi1\\6351071068_ltweb_k63\\webbanxeganmay\\webbanxeganmay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|c:\\users\\user\\documents\\web\\l\u1EADp tr\u00ECnh web\\asp.net\\mvc\\web buoi1\\6351071068_ltweb_k63\\webbanxeganmay\\webbanxeganmay\\models\\xeganmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\models\\xeganmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\shoppingcart\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\shoppingcart\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\shoppingcart\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\shoppingcart\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\webbanxeganmay\\views\\shoppingcart\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4DB8667-1E2E-48A3-8B94-B5E32963AF92}|WebBanXeGanMay\\WebBanXeGanMay.csproj|solutionrelative:webbanxeganmay\\views\\shoppingcart\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebBanXeGanMay\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAAVAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T09:28:06.665Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XEGANMAY.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Models\\XEGANMAY.cs",
+              "RelativeDocumentMoniker": "WebBanXeGanMay\\Models\\XEGANMAY.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Models\\XEGANMAY.cs",
+              "RelativeToolTip": "WebBanXeGanMay\\Models\\XEGANMAY.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:42:24.904Z",
               "EditorCaption": ""
             },
             {
@@ -73,110 +69,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebBanXeGanMay\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:21:51.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Store\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\Store\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Store\\Index.cshtml",
-              "RelativeToolTip": "WebBanXeGanMay\\Views\\Store\\Index.cshtml",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAswD8AAAAAAAAA",
+              "Title": "Xe.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Admin\\Xe.cshtml",
+              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\Admin\\Xe.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Admin\\Xe.cshtml",
+              "RelativeToolTip": "WebBanXeGanMay\\Views\\Admin\\Xe.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T11:02:50.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StoreController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\StoreController.cs",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Controllers\\StoreController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\StoreController.cs",
-              "RelativeToolTip": "WebBanXeGanMay\\Controllers\\StoreController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:57:08.811Z"
+              "WhenOpened": "2024-12-06T12:33:14.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebBanXeGanMay\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAA7wHcAAAAaAAAA",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebBanXeGanMay\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebBanXeGanMay\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAuwIUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:50:12.609Z"
+              "WhenOpened": "2024-12-06T12:14:13.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebBanXeGanMay\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwDMAAAB3AAAA",
+              "DocumentIndex": 1,
+              "Title": "Suaxe.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Admin\\Suaxe.cshtml",
+              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\Admin\\Suaxe.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\Admin\\Suaxe.cshtml",
+              "RelativeToolTip": "WebBanXeGanMay\\Views\\Admin\\Suaxe.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:49:38.922Z"
+              "WhenOpened": "2024-12-06T12:14:02.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Xacnhandonhang.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\Xacnhandonhang.cshtml",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\ShoppingCart\\Xacnhandonhang.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\Xacnhandonhang.cshtml",
-              "RelativeToolTip": "WebBanXeGanMay\\Views\\ShoppingCart\\Xacnhandonhang.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:40:08.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DatHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\DatHang.cshtml",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\ShoppingCart\\DatHang.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\DatHang.cshtml",
-              "RelativeToolTip": "WebBanXeGanMay\\Views\\ShoppingCart\\DatHang.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:32:17.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "WebBanXeGanMay\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAUwKIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:27:07.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GioHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\GioHang.cshtml",
-              "RelativeDocumentMoniker": "WebBanXeGanMay\\Views\\ShoppingCart\\GioHang.cshtml",
-              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Views\\ShoppingCart\\GioHang.cshtml",
-              "RelativeToolTip": "WebBanXeGanMay\\Views\\ShoppingCart\\GioHang.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwDIAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:26:34.122Z"
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Web.config",
+              "RelativeDocumentMoniker": "WebBanXeGanMay\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\WEB\\L\u1EADp tr\u00ECnh web\\ASP.NET\\MVC\\Web Buoi1\\6351071068_LTWEB_K63\\WebBanXeGanMay\\WebBanXeGanMay\\Web.config",
+              "RelativeToolTip": "WebBanXeGanMay\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T09:42:37.975Z",
+              "EditorCaption": ""
             }
           ]
         }

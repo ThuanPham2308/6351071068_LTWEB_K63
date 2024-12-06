@@ -25,6 +25,7 @@ namespace WebBanXeGanMay.Models
             throw new UnintentionalCodeFirstException();
         }
     
+        public DbSet<Admin> Admins { get; set; }
         public DbSet<CHITIETDONTHANG> CHITIETDONTHANGs { get; set; }
         public DbSet<DONDATHANG> DONDATHANGs { get; set; }
         public DbSet<HANGSANXUAT> HANGSANXUATs { get; set; }

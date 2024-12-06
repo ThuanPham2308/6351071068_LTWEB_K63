@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\User\Documents\WEB\Lập trình web\ASP.NET\MVC\Tài liệu thực hành-20241122\WebBanXeGanMay\WebBanXeGanMay\Models\QLBanXeGanMay.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\User\Documents\WEB\Lập trình web\ASP.NET\MVC\Web Buoi1\6351071068_LTWEB_K63\WebBanXeGanMay\WebBanXeGanMay\Models\QLBanXeGanMay.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
